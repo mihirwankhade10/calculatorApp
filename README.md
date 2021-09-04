@@ -2,9 +2,6 @@
 
 
 ## A calculator with Google Material Design and Firestore Database
-
-### Application Icon
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/z7RVQPN/ic-launcher-2.png" alt="ic-launcher-2" width="150" border="0"></a>
 ## Interface Screenshots 
 <p>
 <a href="https://ibb.co/z6x7JZv"><img 
